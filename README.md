@@ -1,2 +1,2 @@
 # Projetos-DIO
-Projetos desenvolvidos nos treinamentos da DIO
+Repositório para os projetos desenvolvidos nos treinamentos da DIO
